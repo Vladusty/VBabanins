@@ -1,3 +1,2 @@
 # VBabanins
- VBabanins 12.a klases repositorijs
-TEST
+ Vladislava Babaņina 12.a klases repozitorijs.
